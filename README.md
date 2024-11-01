@@ -6,7 +6,7 @@ Handling, Authentication, and File Handling with Public and Admin
 Routes. 
 
 
-Team Members :  Shwetank Singh (CWID:813968286) & Mahita Pasupuleti (CWID:867114134)
+Team Members :  Shwetank Singh (CWID:813968286) & Mahitha Pasupuleti (CWID:867114134)
 
 
 ## Installation
