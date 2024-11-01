@@ -78,6 +78,11 @@ flask run / python app.py
 ```
 Visit Postman to start testing the endpoints!
 
+
+
+<img width="400" alt="Endpoints" src="https://github.com/user-attachments/assets/07efb0c8-3323-4c3d-9ab4-bc5e07c7bb8b">
+
+
 Additional Notes
 - Ensure you have your environment variables set up, especially for any sensitive information like API keys or secret tokens.
 - Check the config.py file for additional configuration options.
