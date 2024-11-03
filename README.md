@@ -8,7 +8,7 @@ Routes.
 
 Team Members :  Shwetank Singh (CWID:813968286) & Mahitha Pasupuleti (CWID:867114134)
 
-[Project Video](https://www.loom.com/share/7fd694784a174b28b34be62818e60d92?sid=e64f9595-61e2-4641-ade2-a41e589b3a4a)
+[Project Video](https://www.loom.com/share/7fd694784a174b28b34be62818e60d92?sid=e64f9595-61e2-4641-ade2-a41e589b3a4a) | [Download Video](https://drive.google.com/file/d/1aw3eTV4IROVjYGDRwJvKVML7ZReBypRi/view?usp=sharing)
 
 
 
